@@ -1,3 +1,3 @@
 # Notes - NodeJS - REST Server
 
-Run ```npm install``` for building the project
+Run ```npm install``` for building.
